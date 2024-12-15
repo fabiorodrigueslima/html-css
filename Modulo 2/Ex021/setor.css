@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(165, 250, 222);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgb(27, 58, 58);
+    background-color: white;
+}
+#principal {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: magenta;
+}
+
+h2 {
+    font-family: 'cursive';
+    font-size: 0,5%;
+}
+
+.basico {
+    color: maroon;
+}
+
+.intermediario {
+    color: blue;
+}
+
+.avancado {
+    color: azure;
+    font-weight: normal;
+}
